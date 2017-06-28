@@ -2,8 +2,8 @@
 Changelog for package sicks300
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.0.6 (2017-06-28)
+------------------
 * removed external maintainer
 * Contributors: Marc Hanheide
 
