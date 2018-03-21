@@ -2,6 +2,9 @@
 Changelog for package sicks300
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 1.1.0 (2018-03-21)
 ------------------
 * Merge pull request `#7 <https://github.com/strands-project/sicks300/issues/7>`_ from imoverxyz/add-missing-commits
